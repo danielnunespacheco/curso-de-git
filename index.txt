@@ -1,0 +1,3 @@
+- Projetos grandes - git sub modeles
+- Git Rebase <--- Arriscado Comando, desfaz algum merge
+- Git Resolução de conflitos
